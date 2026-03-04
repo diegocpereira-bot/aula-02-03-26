@@ -1,5 +1,4 @@
 /* Configurações Globais */
-
 /*body {
     font-family: Arial, sans-serif;
     background: #f4f4f4; /* Um cinza claro para destacar os painéis brancos */
@@ -56,4 +55,5 @@ a[href^="http"] {
 a[href^="http"]::before {
     content: "🌐 "; /* Adiciona um ícone antes do link externo */
 }
+
 */
