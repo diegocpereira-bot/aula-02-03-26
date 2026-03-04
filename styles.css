@@ -1,6 +1,6 @@
 /* Configurações Globais */
 body {
-/*   
+ 
     font-family: Arial, sans-serif;
     background: #f4f4f4; /* Um cinza claro para destacar os painéis brancos */
     color: #222;
@@ -9,7 +9,7 @@ body {
 
 /* Você pode usar a tag header ou a classe .topo que você criou */
 header, .topo {
-    padding: 16px;
+    /*padding: 16px;
     background: #F5A3A3;
     color: #fff;
 }
@@ -56,4 +56,4 @@ a[href^="http"] {
 a[href^="http"]::before {
     content: "🌐 "; /* Adiciona um ícone antes do link externo */
 }
-*/
+
