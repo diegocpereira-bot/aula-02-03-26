@@ -55,5 +55,4 @@ a[href^="http"] {
 a[href^="http"]::before {
     content: "🌐 "; /* Adiciona um ícone antes do link externo */
 }
-
 */
